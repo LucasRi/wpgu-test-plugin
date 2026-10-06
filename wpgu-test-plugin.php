@@ -5,4 +5,4 @@
  * Version: 1.0.0
  */
 
-define( 'WPGU_TEST_PLUGIN_BUILD', 3 );
+define( 'WPGU_TEST_PLUGIN_BUILD', 4 );
